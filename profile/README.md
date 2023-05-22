@@ -1,4 +1,4 @@
 # CodeCrafterMC
 
-## MyProfiles:
+## My Profiles:
 * [Modrinth](https://modrinth.com/user/CodeCrafterMC)
